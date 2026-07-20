@@ -40,5 +40,30 @@ let booleanisloggedin=Boolean(isloggedin)
 
 let somenumber=33
 let stringnumber=String(somenumber)
-console.log(stringnumber)
-console.log(typeof stringnumber)
+// console.log(stringnumber)
+// console.log(typeof stringnumber)
+
+//****************************** operations ****************************/
+
+let value=3
+let negvalue=-value
+// console.log(negvalue)
+
+let str1="hello"
+let str2=" hitesh"
+// console.log(str1+str2)
+let str3=str1+str2
+// console.log(str3)
+console.log("1"+2)
+console.log(1+"2")
+console.log("1"+2+"3")
+console.log("1"+2+2)
+console.log(2+2+"1")
+
+console.log(true)
+console.log(+true)
+
+console.log(false)
+console.log(+false)
+
+//prefix increment is possible but postfix increment is not possible
