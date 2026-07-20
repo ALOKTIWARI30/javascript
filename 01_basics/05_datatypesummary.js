@@ -32,3 +32,8 @@ const myfunction=function(){
 
 //return type of bugint is undefined
 //return type of symbol is symbol
+
+
+//************************* memory ************************ */
+
+//stack(primitive) ,Heap(non primitive)
